@@ -1,2 +1,2 @@
 # ControlMe
-This is an App for my terrible habits
+## This is an App for my terrible habits
